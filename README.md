@@ -1,3 +1,5 @@
+### [FileStreamBot](https://github.com/SpringsFern/FileStreamBot) is a Modified Version of [TG-FileStreamBot](github.com/EverythingSuckz/TG-FileStreamBot) by [EverythingSuckz](github.com/EverythingSuckz/)
+<hr>
 <h1 align="center">Telegram File Stream Bot</h3>
 <p align="center">
   <a href="https://github.com/DeekshithSH/FileStreamBot">
