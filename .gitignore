@@ -122,3 +122,5 @@ test.py
 test2.py
 
 streambot.log.*
+
+/test
