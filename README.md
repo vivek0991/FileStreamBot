@@ -63,6 +63,14 @@ The main working part was taken from [Megatron](https://github.com/eyaadh/megadl
 
 <!-- Host the bot on VPS or Locally -->
 
+### Deploy on Heroku
+
+Press the below button to fast deploy to Heroku
+
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
+
 ### Host it on VPS or Locally
 
 ```sh
