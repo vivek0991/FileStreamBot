@@ -52,7 +52,7 @@
             "required": false
         },
         "PING_INTERVAL": {
-            "description": "The time in ms you want the servers to be pinged each time to avoid sleeping.",
+            "description": "The time in s you want the servers to be pinged each time to avoid sleeping.",
             "required": false
         },
         "FQDN": {
@@ -81,7 +81,7 @@
         "KEEP_ALIVE" : {
             "description": "If you want to make the server ping itself every `PING_INTERVAL` seconds to avoid sleeping. Helpful in PaaS Free tiers. Defaults to `False`",
             "required": false,
-            "value": "False"
+            "value": "True"
         }
     },
     "buildpacks": [{
